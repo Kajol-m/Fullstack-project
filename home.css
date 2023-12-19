@@ -1,0 +1,9 @@
+.form-inline{
+    float:inline-end;
+}
+.home-navbrand{
+    background-color: palevioletred;
+}
+#brand-logo{
+    width: 50px;
+}
